@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on some projects where i can learn a lot of things
 - 🤔 I’m looking for people who want to learn and try to be better in this amazing world
 - 💬 Ask me about whatever you want
-- ⚡ Fun fact: Im ready for any thing
+- ⚡ Fun fact: gitIm ready for any thing
 -->
