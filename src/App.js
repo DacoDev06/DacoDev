@@ -1,4 +1,4 @@
-
+import  './styles/styles.css'
 
 function App() {
   return (
@@ -16,4 +16,4 @@ function App() {
   );
 }
 
-export default App;
+export {App};

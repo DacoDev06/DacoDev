@@ -277,4 +277,5 @@ $RECYCLE.BIN/
 *.png
 
 node_modules
+build
 
